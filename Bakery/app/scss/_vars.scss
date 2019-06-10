@@ -1,0 +1,21 @@
+$default-font: "roboto-example", sans-serif;
+$roboto-light: "roboto-light", sans-serif;
+$roboto-bold: "roboto-bold", sans-serif;
+$open-sans: "open-sans", sans-serif;
+$open-sans-light: "open-sans-light", sans-serif;
+$accent: #d1ab7f;
+$text: rgb(51, 51, 51); 
+$section-bg: #f5f2ef67;
+$footer-bg: #333333;
+$second-footer-bg: #262626;
+$gray-text: #888888;
+
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 30px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1200px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1140px);
+
+$gutter: $grid-gutter-width;  
+
+
